@@ -13,6 +13,9 @@ I may not actively maintain this repository, or it may be maintained in bursts. 
 # List of "open" processes
 ...
 
+# General/Introductory References
+...resources on what this means, why it makes sense, how it's done, fundamentals, ...etc...
+
 # The Bibliography
 ...stuff goes here, layout subject to change...
 
